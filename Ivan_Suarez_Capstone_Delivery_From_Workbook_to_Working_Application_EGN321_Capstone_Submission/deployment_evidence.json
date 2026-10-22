@@ -1,0 +1,10 @@
+{
+  "application_type": "REPLACE: Flask / Streamlit / CLI / desktop / other",
+  "startup_command": "REPLACE",
+  "required_dependencies": "REPLACE",
+  "required_files": "REPLACE",
+  "expected_url_or_interface": "REPLACE",
+  "normal_success_check": "REPLACE",
+  "log_location": "REPLACE",
+  "database_or_history_location": "REPLACE if applicable"
+}

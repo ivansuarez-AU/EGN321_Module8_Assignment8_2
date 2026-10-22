@@ -1,0 +1,10 @@
+{
+  "failure_scenario": "REPLACE",
+  "failure_action": "REPLACE: what controlled action introduced the failure?",
+  "first_observable_symptom": "REPLACE",
+  "log_or_system_evidence": "REPLACE",
+  "health_or_status_change": "REPLACE",
+  "recovery_action": "REPLACE",
+  "recovery_verification": "REPLACE: deterministic check proving recovery",
+  "remaining_uncertainty": "REPLACE"
+}

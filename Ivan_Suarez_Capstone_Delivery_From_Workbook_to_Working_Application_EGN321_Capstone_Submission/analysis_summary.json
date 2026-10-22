@@ -1,0 +1,20 @@
+{
+  "analysis_file": "Cooling_Loop_Analysis_Data_720_Records.csv",
+  "rows": 720,
+  "columns": 10,
+  "duplicate_rows": 0,
+  "missing_cells": 650,
+  "numeric_columns": [
+    "Record_ID",
+    "Temperature_C",
+    "Pressure_kPa",
+    "Flow_LPM"
+  ],
+  "categorical_columns": [
+    "Operator_Note",
+    "Legacy_Status",
+    "Temp_Alert",
+    "Flow_Alert",
+    "Data_Quality"
+  ]
+}

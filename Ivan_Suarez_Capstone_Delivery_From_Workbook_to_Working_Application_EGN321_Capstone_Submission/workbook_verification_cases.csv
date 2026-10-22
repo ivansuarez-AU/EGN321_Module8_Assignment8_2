@@ -1,0 +1,5 @@
+case,input_or_scenario,original_expected_result,new_application_result,pass_fail,evidence
+Known-Correct Original Case,REPLACE,REPLACE,REPLACE,REPLACE,REPLACE: test name / screenshot / output
+Original Defect / Edge Case,REPLACE,REPLACE,REPLACE,REPLACE,REPLACE
+Invalid Input / Refusal,REPLACE,N/A,REPLACE: refusal/error behavior,REPLACE,REPLACE
+Student-Created Test,REPLACE,REPLACE if applicable,REPLACE,REPLACE,REPLACE

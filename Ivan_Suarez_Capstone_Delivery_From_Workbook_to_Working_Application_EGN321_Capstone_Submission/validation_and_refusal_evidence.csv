@@ -1,0 +1,5 @@
+condition,example,expected_behavior,observed_behavior,verified
+Valid input,REPLACE,Accepted and processed,REPLACE,REPLACE
+Missing required value,REPLACE,Refused with clear reason,REPLACE,REPLACE
+Out-of-range / impossible value,REPLACE,Refused with offending value identified,REPLACE,REPLACE
+Project-specific edge case,REPLACE,REPLACE,REPLACE,REPLACE

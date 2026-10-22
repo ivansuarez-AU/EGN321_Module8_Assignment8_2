@@ -1,0 +1,80 @@
+EGN 321 — MODULE 8 ASSIGNMENT 8.2
+CAPSTONE DELIVERY SUBMISSION MANIFEST
+
+STUDENT
+Ivan Suarez
+
+PROJECT
+Capstone Delivery From Workbook to Working Application
+
+ORIGINAL ARTIFACT
+anomaly detection workbook
+
+GITHUB
+https://github.com/ivansuarez-AU/EGN321_Module8_Assignment8_2
+
+============================================================
+CAPSTONE EVIDENCE
+============================================================
+
+[1] Named professional capstone report
+    Ivan_Suarez_Capstone_Delivery_From_Workbook_to_Working_Application_Capstone_Report.docx
+
+[2] Named AI log
+    Ivan_Suarez_Capstone_Delivery_From_Workbook_to_Working_Application_AI_LOG.md
+
+[3] Course growth evidence
+    course_growth_modules_1_to_8.csv
+
+[4] Original workbook verification
+    workbook_verification_cases.csv
+
+[5] Validation and refusal evidence
+    validation_and_refusal_evidence.csv
+
+[6] Deployment/startup evidence
+    deployment_evidence.json
+
+[7] Failure/recovery evidence
+    failure_recovery_evidence.json
+
+[8] Silent Handoff improvements
+    handoff_improvements.csv
+
+[9] Presentation readiness
+    presentation_readiness_checklist.csv
+
+[10] Uploaded evidence inventory
+    uploaded_evidence_inventory.csv
+
+[11] Analysis summary
+    analysis_summary.json
+
+[12] Interactive dashboard
+    Ivan_Suarez_Capstone_Delivery_From_Workbook_to_Working_Application_dashboard.html
+
+[13] Uploaded supporting evidence
+    uploaded_evidence/
+
+============================================================
+LIVE PRESENTATION REQUIREMENTS
+============================================================
+
+The student should be prepared to demonstrate:
+
+1. original workbook/process;
+2. normal application workflow;
+3. known-correct verification case;
+4. invalid-input/refusal behavior;
+5. automated tests;
+6. history/dashboard/evidence;
+7. controlled failure;
+8. recovery verification;
+9. handoff improvement;
+10. assumptions and limitations;
+11. AI usage and verification;
+12. one live code modification.
+
+IMPORTANT:
+AI may assist development and preparation.
+AI should not be used during the live code challenge / defense.

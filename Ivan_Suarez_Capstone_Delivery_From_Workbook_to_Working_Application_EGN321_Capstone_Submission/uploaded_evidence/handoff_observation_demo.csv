@@ -1,0 +1,13 @@
+Step,Operator_Action,Success,Confusion_Observed,Improvement_Needed
+1,Locate project files,Yes,Found README and data quickly,None
+2,Understand project purpose,Yes,Purpose was clear,None
+3,Verify dependencies,Yes,Requirements were clear,None
+4,Start analysis/application,Yes,Startup path was clear,None
+5,Complete normal workflow,Yes,Loaded all 720 records,None
+6,Identify valid input,Yes,Units and ranges were documented,None
+7,Interpret dashboard,Partial,Low-flow threshold explanation required rereading,Add threshold reference table
+8,Locate system status,Yes,Status was visible,None
+9,Locate logs,Yes,JSONL file was documented,None
+10,Identify failure condition,Yes,Missing database scenario was documented,None
+11,Follow recovery procedure,Partial,Recovery steps worked but success check was not prominent,Add explicit post-recovery verification
+12,Identify limitation,Yes,Limitations were documented,None

@@ -1,0 +1,9 @@
+module,focus,capstone_evidence
+Module 1,Defects and inherited artifact,"REPLACE: What defect, risk, or hidden assumption did you identify?"
+Module 2,Units and validation,REPLACE: What validation and unit controls did you add?
+Module 3,Reusable engineering logic,REPLACE: What workbook logic became reusable code?
+Module 4,Iteration and interface,REPLACE: What interface or iterative feature did you build?
+Module 5,Input / sensor / replay,"REPLACE: What input, sensor, replay, or uploaded data did you connect?"
+Module 6,History and evidence,REPLACE: What historical/database/analysis evidence did you add?
+Module 7,"Monitoring, alerts, logs, recovery","REPLACE: How does the application monitor, log, detect, and recover?"
+Module 8,Handoff and delivery,REPLACE: What did the Silent Handoff reveal and what did you improve?

@@ -1,0 +1,15 @@
+presentation_requirement,status,evidence
+Show original workbook/process,REPLACE: Ready / Not Ready,REPLACE evidence
+Explain original risk/defect,REPLACE,REPLACE evidence
+Run normal workflow,REPLACE,REPLACE evidence
+Show original-workbook verification case,REPLACE,REPLACE evidence
+Show invalid-input/refusal case,REPLACE,REPLACE evidence
+Show tests,REPLACE,REPLACE evidence
+Show history/dashboard/evidence,REPLACE,REPLACE evidence
+Show controlled failure,REPLACE,REPLACE evidence
+Show recovery verification,REPLACE,REPLACE evidence
+Explain handoff improvement,REPLACE,REPLACE evidence
+Explain assumptions,REPLACE,REPLACE evidence
+Explain at least two limitations,REPLACE,REPLACE evidence
+Explain AI usage and verification,REPLACE,REPLACE evidence
+Ready for live code challenge,REPLACE,REPLACE evidence

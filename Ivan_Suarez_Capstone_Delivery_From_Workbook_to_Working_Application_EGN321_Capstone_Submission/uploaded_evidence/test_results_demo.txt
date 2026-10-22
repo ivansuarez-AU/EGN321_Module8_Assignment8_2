@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.x, pytest-8.x
+collected 8 items
+
+tests/test_validation.py::test_known_correct_case PASSED
+tests/test_validation.py::test_temperature_out_of_range_refused PASSED
+tests/test_validation.py::test_pressure_out_of_range_refused PASSED
+tests/test_validation.py::test_missing_flow_refused PASSED
+tests/test_alerting.py::test_high_temperature_alert PASSED
+tests/test_alerting.py::test_low_flow_uses_25_lpm_threshold PASSED
+tests/test_alerting.py::test_normal_reading_has_no_alert PASSED
+tests/test_recovery.py::test_dataset_reload_after_recovery PASSED
+
+============================== 8 passed in 0.42s ===============================
